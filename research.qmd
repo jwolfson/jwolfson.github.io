@@ -1,0 +1,48 @@
+---
+title: "Research & Collaborations"
+---
+
+## Methodological Focus
+
+My research lies at the intersection of **causal inference** and **machine learning**, particularly as applied to large, messy datasets. Key methodological applications include:
+
+* **Surrogate Endpoints:** Evaluating potential surrogate markers in clinical trials.
+* **Variable Selection:** Identifying relevant explanatory predictors in the presence of strong correlation and measurement error.
+* **Risk Prediction:** Developing electronic health record (EHR) predictive models for cardiovascular events.
+* **Mobile Health (mHealth):** Modeling continuous human activity and behavioral dynamics from smartphone and wearable sensor data.
+
+---
+
+## Interdisciplinary Collaborations
+
+I serve as lead statistician on clinical trials, consult across diverse biomedical disciplines, and collaborate on multi-institutional research projects:
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+### 🩺 Infectious Disease & Vaccines
+* Unblinded statistician for Phase 3 vaccine and therapeutic trials (**LIFE-HIV**, **TACTICAL-HIV**, **PREVAIL I** Ebola vaccine trial).
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### ❤️ Cardiovascular & Chronic Disease
+* Risk prediction for heart attacks and cardiovascular health using large EHR networks.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### 🥗 Nutrition & Pediatrics
+* Multi-disciplinary observational and interdisciplinary clinical studies.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### 📱 Digital Health & Sensing
+* Mobile health, passively sensed behavioral data, and wearable sensors.
+:::
+
+:::
+
+---
+
+## Daynamica Startup
+
+I am co-founder and Chief Technology Officer of **[Daynamica](http://www.daynamica.com)**, a University of Minnesota spin-off company. Daynamica provides smartphone-based data collection, storage, and analysis tools to help researchers capture detailed human travel and activity patterns in real time.

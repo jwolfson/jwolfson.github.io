@@ -1,0 +1,42 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Julian Wolfson, Ph.D."
+  description: "Professor of Biostatistics & Health Data Science | University of Minnesota"
+  site-url: "https://jwolfson.github.io"
+  
+  navbar:
+    title: "Julian Wolfson, Ph.D."
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: software.qmd
+        text: Software
+      - href: service.qmd
+        text: Service
+    right:
+      - icon: github
+        href: https://github.com/jwolfson
+        aria-label: GitHub
+      - icon: mortarboard-fill
+        href: https://scholar.google.com/citations?user=W4sIgrIAAAAJ&hl=en
+        aria-label: Google Scholar
+      - icon: chat-quote-fill
+        href: https://bsky.app/profile/drjwolfson.bsky.social
+        aria-label: Bluesky
+
+format:
+  html:
+    theme:
+      light: [flatly, styles.scss]
+      dark: [darkly, styles.scss]
+    toc: true
+    toc-depth: 2
+    smooth-scroll: true
+    highlight-style: github

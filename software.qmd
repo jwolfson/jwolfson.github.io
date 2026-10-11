@@ -1,0 +1,20 @@
+---
+title: "Software & Computing Tools"
+---
+
+## R Packages & Open Source Tools
+
+Below is a selection of R packages, open-source repositories, and statistical software tools developed by our group. 
+
+*(This list can be configured to update automatically via GitHub Actions)*
+
+::: {.callout-tip}
+### 📦 Code Repositories
+Visit my main GitHub profile at [github.com/jwolfson](https://github.com/jwolfson) to inspect source code for recent packages, statistical scripts, and reproducible analyses.
+:::
+
+---
+
+## Templates & Code Snippets
+
+I maintain a collection of useful templates, statistical computing scripts, and LaTeX workflow tricks for biostatistics students and researchers.

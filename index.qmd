@@ -1,0 +1,50 @@
+---
+title: "Julian Wolfson, Ph.D."
+subtitle: "Professor & Program Director, MPH in Public Health Data Science"
+image: profile.jpg
+about:
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - icon: file-earmark-pdf
+      text: Current CV
+      href: https://docs.google.com/document/d/1XH6gZ8ge24lLUZFfYa1d91xNPWl2-Pn7js4dvTRaLi4/edit?usp=sharing
+    - icon: github
+      text: GitHub
+      href: https://github.com/jwolfson
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=W4sIgrIAAAAJ&hl=en
+    - icon: chat-quote-fill
+      text: Bluesky
+      href: https://bsky.app/profile/drjwolfson.bsky.social
+---
+
+## About Me
+
+I am a **Professor** in the [Division of Biostatistics & Health Data Science](http://www.sph.umn.edu/academics/divisions/biostatistics/) at the [University of Minnesota School of Public Health](http://www.sph.umn.edu), where I also serve as **Program Director** for the [MPH in Public Health Data Science](http://www.sph.umn.edu/academics/degrees-programs/mph/public-health-data-science/).
+
+My methodological research lies at the intersection of **causal inference** and **machine learning**, with a strong focus on analyzing complex, high-dimensional, and observational health datasets. 
+
+In addition to academic research and teaching, I am co-founder and Chief Technology Officer of [Daynamica](http://www.daynamica.com), a UMN startup company providing smartphone-based data collection and analytics for understanding human activity and behavior.
+
+---
+
+## Background & Education
+
+* **Ph.D. in Biostatistics** (2009) | University of Washington  
+  *Dissertation supervised by Prof. Peter Gilbert at Fred Hutchinson Cancer Research Center.*
+* **B.Sc. Joint Honours in Mathematics and Computer Science** (2004) | McGill University
+
+Proudly Canadian 🇨🇦. Outside of work, I enjoy squash, golf, and experimenting in the kitchen.
+
+---
+
+## Contact Information
+
+::: {.callout-note appearance="minimal"}
+📍 **Office:** 2221 University Ave. SE, Suite 200, Minneapolis, MN 55414  
+📞 **Phone:** (612) 625-9514  
+🏫 **Department:** Division of Biostatistics & Health Data Science, University of Minnesota
+:::
