@@ -8,9 +8,9 @@ permalink: /
   <img src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Julian Wolfson" class="profile-img">
   <div class="profile-bio">
     <h1>Julian Wolfson, Ph.D.</h1>
-    <div class="subtitle-text">Professor & Program Director, MPH in Public Health Data Science</div>
+    <div class="subtitle-text">Professor & Associate Dean for Education</div>
     <div class="hero-banner">
-      👋 <strong>Welcome!</strong> I am a Professor in the <a href="http://www.sph.umn.edu/academics/divisions/biostatistics/" target="_blank">Division of Biostatistics & Health Data Science</a> at the <a href="http://www.sph.umn.edu" target="_blank">University of Minnesota School of Public Health</a>.
+      👋 <strong>Welcome!</strong> I am Professor of Biostatistics & Health Data Science and Associate Dean for Education at the <a href="http://www.sph.umn.edu" target="_blank">University of Minnesota School of Public Health</a>.
     </div>
   </div>
 </div>
@@ -19,19 +19,10 @@ permalink: /
 
 My methodological research operates at the intersection of <strong>causal inference</strong> and <strong>machine learning</strong>, with emphasis on analyzing complex, high-dimensional, and observational health datasets.
 
-<div style="margin-top: 1rem; margin-bottom: 1.5rem;">
-  <span class="badge-pill">Causal Inference</span>
-  <span class="badge-pill">Machine Learning</span>
-  <span class="badge-pill">Surrogate Endpoints</span>
-  <span class="badge-pill">Risk Prediction</span>
-  <span class="badge-pill">EHR Data</span>
-  <span class="badge-pill">mHealth & Wearable Sensors</span>
-</div>
-
 <div class="grid-3">
   <div class="stat-box">
-    <div class="stat-number">MPH</div>
-    <div class="stat-label">Program Director, Public Health Data Science</div>
+    <div class="stat-number">Assoc. Dean</div>
+    <div class="stat-label">Associate Dean for Education</div>
   </div>
   <div class="stat-box">
     <div class="stat-number">CTO</div>
@@ -42,6 +33,12 @@ My methodological research operates at the intersection of <strong>causal infere
     <div class="stat-label">Associate Editor for Reproducibility</div>
   </div>
 </div>
+
+---
+
+## Honors & Awards
+
+* **Leonard M. Schuman Award for Excellence in Teaching** — University of Minnesota School of Public Health (2016)
 
 ---
 
@@ -57,15 +54,6 @@ I am co-founder and Chief Technology Officer of **[Daynamica](http://www.daynami
 * 💻 **[GitHub Profile](https://github.com/jwolfson)**
 * 🎓 **[Google Scholar Profile](https://scholar.google.com/citations?user=W4sIgrIAAAAJ&hl=en)**
 * 🦋 **[Bluesky Profile](https://bsky.app/profile/drjwolfson.bsky.social)**
-
----
-
-## Background & Education
-
-* **Ph.D. in Biostatistics** (2009) — University of Washington *(Supervised by Prof. Peter Gilbert, Fred Hutchinson Cancer Research Center)*
-* **B.Sc. Joint Honours in Mathematics and Computer Science** (2004) — McGill University
-
-Proudly Canadian 🇨🇦. Outside of work, I enjoy tae kwon do, golf, and experimenting in the kitchen.
 
 ---
 
