@@ -1,0 +1,33 @@
+title: "Julian Wolfson, Ph.D."
+first_name: "Julian"
+last_name: "Wolfson"
+position: "Professor & Program Director, MPH in Public Health Data Science"
+affiliation: "University of Minnesota"
+affiliation_url: "https://sph.umn.edu"
+location: "2221 University Ave. SE, Suite 200, Minneapolis, MN 55414"
+
+url: "https://jwolfson.github.io"
+baseurl: ""
+
+# Theme settings
+theme: jekyll-theme-primer
+markdown: kramdown
+highlighter: rouge
+
+# Social handles
+github_username: jwolfson
+googlescholar_id: W4sIgrIAAAAJ
+bluesky_username: drjwolfson.bsky.social
+
+# Navigation bar header
+header_pages:
+  - _pages/research.md
+  - _pages/teaching.md
+  - _pages/software.md
+  - _pages/service.md
+
+# Build settings
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
