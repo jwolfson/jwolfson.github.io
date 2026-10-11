@@ -6,8 +6,7 @@ This repository contains the full Jekyll source code for Julian Wolfson's person
 - `_config.yml`: Global metadata and plugin settings
 - `_layouts/default.html`: Main HTML template with navigation bar, typography, and footer
 - `assets/css/style.scss`: SCSS stylesheet featuring UMN Maroon (`#7a0019`) theme, card grids, stat counters, and responsive navigation
-- `index.md`: Main landing page
-- `_pages/`: Research, Teaching, Software, and Service subpages
+- `index.md`, `research.md`, `teaching.md`, `software.md`, `service.md`: Main site content pages placed directly in root to ensure clean URL routing.
 
 ## How to Deploy to GitHub Pages
 1. Push these files to the `main` branch of your `jwolfson.github.io` GitHub repository.

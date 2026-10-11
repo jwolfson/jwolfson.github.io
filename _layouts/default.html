@@ -14,11 +14,11 @@
     <div class="container header-container">
       <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
       <nav class="site-nav">
-        <a href="{{ '/' | relative_url }}" class="nav-link {% if page.permalink == '/' %}active{% endif %}">Home</a>
-        <a href="{{ '/research/' | relative_url }}" class="nav-link {% if page.permalink == '/research/' %}active{% endif %}">Research</a>
-        <a href="{{ '/teaching/' | relative_url }}" class="nav-link {% if page.permalink == '/teaching/' %}active{% endif %}">Teaching</a>
-        <a href="{{ '/software/' | relative_url }}" class="nav-link {% if page.permalink == '/software/' %}active{% endif %}">Software</a>
-        <a href="{{ '/service/' | relative_url }}" class="nav-link {% if page.permalink == '/service/' %}active{% endif %}">Service</a>
+        <a href="{{ '/' | relative_url }}" class="nav-link {% if page.url == '/' or page.url == '/index.html' %}active{% endif %}">Home</a>
+        <a href="{{ '/research/' | relative_url }}" class="nav-link {% if page.url contains 'research' %}active{% endif %}">Research</a>
+        <a href="{{ '/teaching/' | relative_url }}" class="nav-link {% if page.url contains 'teaching' %}active{% endif %}">Teaching</a>
+        <a href="{{ '/software/' | relative_url }}" class="nav-link {% if page.url contains 'software' %}active{% endif %}">Software</a>
+        <a href="{{ '/service/' | relative_url }}" class="nav-link {% if page.url contains 'service' %}active{% endif %}">Service</a>
       </nav>
     </div>
   </header>
