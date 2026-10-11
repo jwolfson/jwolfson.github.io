@@ -4,11 +4,15 @@ title: Home
 permalink: /
 ---
 
-# Julian Wolfson, Ph.D.
-<div class="subtitle-text">Professor & Program Director, MPH in Public Health Data Science</div>
-
-<div class="hero-banner">
-  👋 <strong>Welcome!</strong> I am a Professor in the <a href="http://www.sph.umn.edu/academics/divisions/biostatistics/" target="_blank">Division of Biostatistics & Health Data Science</a> at the <a href="http://www.sph.umn.edu" target="_blank">University of Minnesota School of Public Health</a>.
+<div class="profile-hero">
+  <img src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Julian Wolfson" class="profile-img">
+  <div class="profile-bio">
+    <h1>Julian Wolfson, Ph.D.</h1>
+    <div class="subtitle-text">Professor & Program Director, MPH in Public Health Data Science</div>
+    <div class="hero-banner">
+      👋 <strong>Welcome!</strong> I am a Professor in the <a href="http://www.sph.umn.edu/academics/divisions/biostatistics/" target="_blank">Division of Biostatistics & Health Data Science</a> at the <a href="http://www.sph.umn.edu" target="_blank">University of Minnesota School of Public Health</a>.
+    </div>
+  </div>
 </div>
 
 ## Research Interests
@@ -61,7 +65,7 @@ I am co-founder and Chief Technology Officer of **[Daynamica](http://www.daynami
 * **Ph.D. in Biostatistics** (2009) — University of Washington *(Supervised by Prof. Peter Gilbert, Fred Hutchinson Cancer Research Center)*
 * **B.Sc. Joint Honours in Mathematics and Computer Science** (2004) — McGill University
 
-Proudly Canadian 🇨🇦. Outside of work, I enjoy squash, golf, and experimenting in the kitchen.
+Proudly Canadian 🇨🇦. Outside of work, I enjoy tae kwon do, golf, and experimenting in the kitchen.
 
 ---
 
