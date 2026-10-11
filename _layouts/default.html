@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-container">
+      <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+      <nav class="site-nav">
+        <a href="{{ '/' | relative_url }}" class="nav-link {% if page.permalink == '/' %}active{% endif %}">Home</a>
+        <a href="{{ '/research/' | relative_url }}" class="nav-link {% if page.permalink == '/research/' %}active{% endif %}">Research</a>
+        <a href="{{ '/teaching/' | relative_url }}" class="nav-link {% if page.permalink == '/teaching/' %}active{% endif %}">Teaching</a>
+        <a href="{{ '/software/' | relative_url }}" class="nav-link {% if page.permalink == '/software/' %}active{% endif %}">Software</a>
+        <a href="{{ '/service/' | relative_url }}" class="nav-link {% if page.permalink == '/service/' %}active{% endif %}">Service</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container main-content">
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>&copy; {{ 'now' | date: "%Y" }} {{ site.title }} &bull; Division of Biostatistics & Health Data Science, University of Minnesota</p>
+    </div>
+  </footer>
+</body>
+</html>

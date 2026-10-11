@@ -1,27 +1,47 @@
 ---
-layout: page
+layout: default
 title: Research
 permalink: /research/
 ---
 
-## Areas of Methodological Interest
+# Research & Collaborations
 
-* **Causal Inference & Machine Learning:** Developing robust estimation frameworks for high-dimensional observational data.
-* **Surrogate Endpoints:** Evaluating potential surrogate markers in clinical trial settings.
-* **Risk Prediction:** Constructing and validating risk prediction algorithms using Electronic Health Record (EHR) systems.
-* **Mobile Health & Wearable Sensors:** Analyzing continuous time-series and location data captured via smartphone sensors.
+<div class="subtitle-text">Methodological Focus & Clinical Applications</div>
+
+## Methodological Focus
+
+My methodological research lies at the intersection of **causal inference** and **machine learning**, particularly as applied to large, messy datasets:
+
+<div class="grid-2">
+  <div class="card">
+    <h3>🎯 Surrogate Endpoints</h3>
+    <p>Evaluating potential surrogate markers and intermediate endpoints in clinical trials.</p>
+  </div>
+  <div class="card">
+    <h3>🔍 Variable Selection</h3>
+    <p>Identifying explanatory variables in the presence of strong correlation and measurement error.</p>
+  </div>
+  <div class="card">
+    <h3>❤️ Risk Prediction</h3>
+    <p>Developing cardiovascular risk prediction algorithms using electronic health record (EHR) data.</p>
+  </div>
+  <div class="card">
+    <h3>📱 Mobile Health (mHealth)</h3>
+    <p>Modeling human activity dynamics, travel behavior, and wellness from wearable sensor streams.</p>
+  </div>
+</div>
 
 ---
 
 ## Interdisciplinary Collaborations
 
-My collaborative work spans multiple biomedical fields:
-* **Infectious Disease:** Lead statistician and DSMB member for Phase 3 clinical trials (HIV and Ebola vaccine research).
-* **Cardiovascular Health & Obesity:** Multi-variable modeling and trial design.
-* **Pediatrics & Clinical Research:** Statistical consultation across small and large multi-site trial initiatives.
+My collaborative work spans multiple fields:
+* **Infectious Disease & Vaccines:** Unblinded statistician for Phase 3 trials (**LIFE-HIV**, **TACTICAL-HIV**, and **PREVAIL I** Ebola vaccine trial).
+* **Cardiovascular Health:** Multi-variable modeling and risk score validation.
+* **Nutrition & Pediatrics:** Observational designs and pediatric clinical trials.
 
 ---
 
-## Daynamica
+## Daynamica Startup
 
-I am co-founder and CTO of **[Daynamica](http://www.daynamica.com)**, a UMN spin-off providing real-time smartphone sensing, processing, and visualization of human daily activities and travel behavior.
+I am co-founder and Chief Technology Officer of **[Daynamica](http://www.daynamica.com)**, a UMN startup company providing smartphone-based data collection, storage, and analysis tools to help researchers understand human daily travel and activity behavior.

@@ -1,17 +1,24 @@
 ---
-layout: page
+layout: default
 title: Software
 permalink: /software/
 ---
 
-## R Packages & Open Source Tools
+# Software & Computing Tools
 
-Below is a selection of statistical computing tools and R packages.
+<div class="subtitle-text">Open Source R Packages, Code Repositories & Templates</div>
 
-* **GitHub Repositories:** Visit [github.com/jwolfson](https://github.com/jwolfson) to inspect source code for statistical packages, tools, and reproducible research workflows.
+## R Packages & Repositories
+
+Below is a selection of R packages, open-source repositories, and statistical software tools developed by our group.
+
+<div class="card">
+  <h3>📦 GitHub Repositories</h3>
+  <p>Visit my main GitHub profile at <a href="https://github.com/jwolfson" target="_blank">github.com/jwolfson</a> to inspect source code for statistical packages, code snippets, and reproducible research workflows.</p>
+</div>
 
 ---
 
 ## Templates & Code Snippets
 
-Useful templates, statistical computing scripts, and LaTeX workflow tricks for biostatistics students and researchers.
+I maintain a collection of useful templates, statistical computing scripts, and LaTeX workflow tricks for biostatistics students and researchers.
