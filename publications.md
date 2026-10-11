@@ -31,7 +31,7 @@ permalink: /publications/
 
 <script>
 async function loadAllPublications() {
-  const authorId = "3201484"; // Julian Wolfson Semantic Scholar ID
+  const authorId = "47335744"; // Julian Wolfson Semantic Scholar ID
   const apiUrl = `https://api.semanticscholar.org/graph/v1/author/${authorId}/papers?fields=title,authors,year,venue,externalIds,citationCount,publicationDate&limit=500`;
 
   try {
